@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act rescinding two acts past in the last session of Parliament the one for excepting of persons from publick trust, and the other for voting the same by billets : Edinburgh, the ninth of September, 1663.</title>
+            <title>Laws, etc.</title>
+            <author>Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58584</idno>
+            <idno type="STC">Wing S1158</idno>
+            <idno type="STC">ESTC R38156</idno>
+            <idno type="EEBO-CITATION">17197816</idno>
+            <idno type="OCLC">ocm 17197816</idno>
+            <idno type="VID">106186</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58584)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106186)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1100:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act rescinding two acts past in the last session of Parliament the one for excepting of persons from publick trust, and the other for voting the same by billets : Edinburgh, the ninth of September, 1663.</title>
+                  <title>Laws, etc.</title>
+                  <author>Scotland.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  1660-1688.</term>
+               <term>Scotland --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106186:1"/>
+            <pb facs="tcp:106186:1" rendition="simple:additions"/>
+            <p>ACT Reſcinding two ACTS, Paſt in the laſt SESSION of PARLIAMENT: The one for excepting of perſons from publick Truſt; And the other for voting the ſame by Billets.</p>
+            <p>
+               <hi>Edinburgh,</hi> the ninth of <hi>September,</hi> 1663.</p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>EDINBURGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the King's moſt Excellent MAjESTY, 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:106186:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:106186:2"/>
+            <head>ACT Reſcinding two ACTS, Paſt in the laſt SESSION of PARLIAMENT: The one for excepting of perſons from publick Truſt; And the other for voting the ſame by Billets.</head>
+            <opener>
+               <dateline>Edinburgh, <date>the ninth of <hi>September,</hi> 1663.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>Ur Soveraign Lord, out of His innate goodneſs and love to this His ancient Kingdom, being deſirous, that now, after ſo long troubles, a perfect peace be ſetled within the ſame, and that all His good Sub<g ref="char:EOLhyphen"/>jects might enjoy the happineſs and bleſsings of His Government in a full and free Act of Indempnity, Pardon and Oblivion; Did, by His Inſtructions to the Earl of <hi>Middleton,</hi> His laſt Commiſsioner, before the ſecond Seſ<g ref="char:EOLhyphen"/>ſion of this Parliament, Declare His Royal Pleaſure concerning Fines to be impoſed, both as to the crimes, for which fining was al<g ref="char:EOLhyphen"/>lowed, and as to the proportions; and this moderat way of fining (which His <hi>Majeſty</hi> in<g ref="char:EOLhyphen"/>tended to imploy for the relief of His good
+<pb n="4" facs="tcp:106186:3"/>Subjects who had been ſufferers) being the only puniſhment His <hi>Majeſty</hi> gave warrand for; And His <hi>Majeſty</hi> being carefull to ſee His Royal Grace and Favour to His people exten<g ref="char:EOLhyphen"/>ded as large as He intended it, He commanded the Act of Pardon and Indempnity to be tranſmitted to His own conſideration, before His Royal conſent were given to the ſame. In obedience whereunto, the Earl of <hi>Middle<g ref="char:EOLhyphen"/>ton,</hi> in ſummer, one thouſand ſix hundred and ſixty two, diſpatched Sir <hi>George M<hi rend="sup">c</hi>kenȝie</hi> of <hi>Tarbet</hi> to His <hi>Majeſty,</hi> with a Letter of credit: He carried two draughts of an Act of In<g ref="char:EOLhyphen"/>dempnity, the one excepted only as to Fines, the other excepted alſo as to incapacity from publick Truſt; the laſt he publickly owned to be the deſire of the Parliament, and earneſtly preſt, in name of the Parliament, the inca<g ref="char:EOLhyphen"/>pacitating of ſome few of the moſt guilty, not exceeding twelve; to which His <hi>Majeſty</hi> at laſt conſented, meerly to gratifie that which was repreſented to be the deſire of ſo faithfull and loyal a Parliament: And having de<g ref="char:EOLhyphen"/>ſired to know the truth hereof from His Par<g ref="char:EOLhyphen"/>liament, they, by their unanimous opinions and votes, upon the twenty two of <hi>July</hi> laſt, Declared, that they gave no warrand to deſire of His <hi>Majeſty,</hi> that the Act of Indempnity ſhould carry an exception of incapacitating from publick Truſt, nor any warrand at all to deſire, in their names, His <hi>Majeſties</hi> conſent to the incapacitating a few; and that not<g ref="char:EOLhyphen"/>withſtanding thereof, they had ſeen the double of an Inſtruction given in the contrary by the Earl of <hi>Middleton</hi> to Sir <hi>George M<hi rend="sup">c</hi>kenȝie,</hi> ſigned, and, in preſence of the Parliament,
+<pb n="5" facs="tcp:106186:3"/>owned by him to be a juſt double; bearing, that it was much deſired by the Parliament, that ſome ſhould be excepted from publick Truſt: And it was alſo declared by the Par<g ref="char:EOLhyphen"/>liament, that there was no other ground for incapacitating, but that it was His <hi>Maieſties</hi> pleaſure to have it ſo, and that this was the riſe of bringing in the Act of Billeting, as the moſt expedient way of voting the Act of In<g ref="char:EOLhyphen"/>capacitating: By which it appears, both His <hi>Maieſty</hi> and His Parliament were abuſed, as to that exception from publick Truſt. And Our Soveraign Lord conſidering, that this way of Billeting had no colour of warrand from His <hi>Maieſty,</hi> and that His Royal conſent was given to it without His knowledge, and very far from His intention; and that in the contrivance and carrying on of the ſame, ſini<g ref="char:EOLhyphen"/>ſtrous courſes were taken, and deſignes laid, for incapacitating the Earls of <hi>Crafurd</hi> and <hi>Lauderdaill,</hi> and Sir <hi>Robert Murray;</hi> Perſons, who for their eminent loyalty to, and great and long ſufferings for, His <hi>Maieſty,</hi> are deſervedly in His high eſteem, and who, for the time, had the ſpecial approbation of this preſent Parlia<g ref="char:EOLhyphen"/>ment for theſe great imployments they had from His <hi>Maieſty,</hi> as His Officers of State and otherwayes; and that therefore He hath, with much reaſon, declared Himſelf moſt unſatiſ<g ref="char:EOLhyphen"/>fied therewith: Yet, He doth not attribute the concurrence of His Parliament in Billeting to any thing, but to their unparallel'd affection to His Perſon and Service, and their obſequious complyance to every thing was repreſented to them to be His <hi>Maieſties</hi> intention, or which might be acceptable to His <hi>Maieſty.</hi> And con<g ref="char:EOLhyphen"/>ſidering
+<pb n="6" facs="tcp:106186:4"/>the way of Billeting to be moſt perni<g ref="char:EOLhyphen"/>cious in it ſelf, and of a moſt dangerous conſe<g ref="char:EOLhyphen"/>quence, as tending to the diſhonour of His <hi>Ma<g ref="char:EOLhyphen"/>ieſty</hi> and His Parliament, and to the ſubver<g ref="char:EOLhyphen"/>ſion of all Iuſtice and Government; it being a way never before that time practiſed in this Kingdom, or in any other place, under Mo<g ref="char:EOLhyphen"/>narchical Government; being ſo derogatory to His <hi>Maieſties</hi> Authority and Royal Digni<g ref="char:EOLhyphen"/>ty, and ſo contrary to the honour, freedom and gravity of Parliaments, to all former Pra<g ref="char:EOLhyphen"/>ctiſes, and to the rules of common Iuſtice; every man, even theſe of greateſt merit, be<g ref="char:EOLhyphen"/>ing thereby rendred unſecure of their honour, eſtates, liberties and lives; His <hi>Maieſties</hi> Of<g ref="char:EOLhyphen"/>ficers of State and thoſe of neareſt relation to Him, being expoſed to infamy and ruine, to be, by colour of His Authority without His know<g ref="char:EOLhyphen"/>ledge, torn from Him; and His Royal Prero<g ref="char:EOLhyphen"/>gative, in the choiſe of His Councellors and Servants aſſerted in this preſent Parliament, violated and made contemptible, and all His <hi>Maieſties</hi> good Subjects made lyable to cen<g ref="char:EOLhyphen"/>ſures, without being accuſed, heard, or legally condemned. In regard of all which, Our Soveraign Lord, with conſent, and by the ſpe<g ref="char:EOLhyphen"/>cial advice of His Eſtates in Parliament, Doth hereby Reſcind and Annull two Acts, paſt in the laſt Seſsion of this Parliament, on the ninth of <hi>September,</hi> one thouſand ſix hundred and ſixty two; the one Entituled, <hi>Act appointing the manner of voting by Billets,</hi> and the other Enti<g ref="char:EOLhyphen"/>tuled, <hi>Act concerning perſons to be excepted from publick Truſt, together with the Cl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſes relating there<g ref="char:EOLhyphen"/>to in the Act of Indempnity and in the Act of Fines;</hi> and Declares the ſaids two Acts, with the
+<pb n="7" facs="tcp:106186:4"/>Clauſes aforeſaids relating thereto, to have been from the beginning, to be now, and in all time coming, void and null; and Ordains the ſame to be expunged and razed out of the Re<g ref="char:EOLhyphen"/>cords. Likeas accordingly, the ſaids principal Acts being called for and preſented in Parlia<g ref="char:EOLhyphen"/>ment, were publickly torn and deſtroyed; and the Act of Indempnity and Act for Fines, with the Records of the minutes of Parliament, being alſo called for, the Clauſes contained therein, re<g ref="char:EOLhyphen"/>lating to the excepting of perſons from publick Truſt, and the voting of it by Billets, were ex<g ref="char:EOLhyphen"/>punged out of the ſame: And the Clerk Regi<g ref="char:EOLhyphen"/>ſter is hereby Ordained to take care, that from henceforth the Act of Indempnity and Act for Fines be extracted and recorded according to theſe amendments, and that any extracts alrea<g ref="char:EOLhyphen"/>dy given out, be void and null, as to theſe Clau<g ref="char:EOLhyphen"/>ſes thus amended. Likeas, Our Soveraign Lord, to evidence His juſt diſlike of ſo pernicious a courſe, Doth, with advice and conſent foreſaid, Diſcharge all voting by Billets for the future.</p>
+            <p>And foraſmuch, as the Parliament, in obe<g ref="char:EOLhyphen"/>dience to His <hi>Maieſties</hi> commands, did tranſmit to His <hi>Maieſty,</hi> the original Depoſitions of thoſe who were examined, concerning this whole bu<g ref="char:EOLhyphen"/>ſineſs, to the end He might declare His further preaſure; His <hi>Maieſty</hi> Declares, That having taken all that relates to the buſineſs of Billet<g ref="char:EOLhyphen"/>ing into ſerious conſideration, He will, in conve<g ref="char:EOLhyphen"/>nient time, make known His further pleaſure therein.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINBURGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the King's moſt Excellent MAjESTY, 1663.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
